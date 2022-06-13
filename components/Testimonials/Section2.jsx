@@ -13,7 +13,7 @@ const Section2 = () => {
     <div className='flex flex-col space-y-4'>
 
     <div className='flex flex-col items-center p-5 space-y-3'>
-        <h2 className='text-3xl font-bold'> Don't try to be fashionable... </h2>
+        <h2 className='text-3xl font-bold'> Don t try to be fashionable... </h2>
         <p className='text-xs font-medium'>Just be yourself!</p>
     </div>
 
