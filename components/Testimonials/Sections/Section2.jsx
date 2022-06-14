@@ -1,7 +1,7 @@
 import React from 'react';
-import img1 from '../../public/images/img16.png'
+import img1 from '../../../public/images/img16.png'
 import Image from 'next/image'
-import ProductCard from './ProductCard'
+import ProductCard from '../ProductCard'
 
 const Section2 = () => {
   return (

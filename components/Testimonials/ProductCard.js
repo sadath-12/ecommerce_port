@@ -4,7 +4,7 @@ import img from '../../public/images/img14.png'
 import {AiFillEye} from 'react-icons/ai'
 import {BsHeartFill} from 'react-icons/bs'
 
-const productCard = () => {
+const ProductCard = () => {
   return (
     <div className=' p-2 space-y-4 flex items-center justify-center flex-col shadow-md text-gray-700'>
 <Image src={img} alt="" className='w-[200px] h-[200px]' />
@@ -30,4 +30,4 @@ const productCard = () => {
   );
 }
 
-export default productCard;
+export default ProductCard;
